@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DotJira")]
-[assembly: AssemblyDescription("Jira REST API Library for C# (Csharp). Makes it easy to create and update issues via JIRA")]
+[assembly: AssemblyCopyright("Copyright © DirectEmployers 2013 - available under the following licenses: GNU GPL v2 and v3, MIT and BSD. See license.txt for details")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("DirectEmployers")]
 [assembly: AssemblyProduct("DotJira")]
