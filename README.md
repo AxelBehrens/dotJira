@@ -6,7 +6,7 @@ Jira REST API Library for C# (Csharp).  Makes it easy to create and update issue
 Requirements
 ------------
  * access to a JIRA 5.0 Instance with API activated
-
+ * a valid username and password form JIRA 
 
 Copyright and License
 ---------------------
